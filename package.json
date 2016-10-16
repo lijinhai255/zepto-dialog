@@ -1,0 +1,21 @@
+{
+  "name": "zepto-dialog",
+  "version": "1.0.0",
+  "description": "this is a compact mobile dialog plugin based on zepto",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "zepto": "^1.2.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "zepto",
+    "dialog"
+  ],
+  "author": "downsview",
+  "license": "ISC"
+}
